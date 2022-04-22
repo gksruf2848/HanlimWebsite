@@ -17,6 +17,12 @@ body {
   border-radius: 5px;
   background-color: #fafafa;
   padding: 20px 30px 50px 50px;
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+
 }
 
 /* style inputs and link buttons */
