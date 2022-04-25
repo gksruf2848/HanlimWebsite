@@ -14,6 +14,7 @@ body {
 /* style the container */
 .container {
   position: relative;
+
   width: 540px;
   height: 340px;
   border-radius: 5px;
